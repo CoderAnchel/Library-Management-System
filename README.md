@@ -1,4 +1,4 @@
-# JAVA Library Management System 
+# JAVA☕️ Library Management System 
 ![inaki-del-olmo-NIJuEQw0RKg-unsplash](https://github.com/user-attachments/assets/4cf66ec6-a470-49fd-a435-18f4a400c24c)
 ## 1. Project Overview
 
